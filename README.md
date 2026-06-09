@@ -11,6 +11,7 @@ Googleフォーム・Googleスプレッドシート・Google Apps Script（GAS�
 * Google Forms
 * Google Sheets
 * Google Apps Script（GAS）
+* Slack Webhook
 
 ## 主な機能
 
@@ -22,6 +23,7 @@ Googleフォーム・Googleスプレッドシート・Google Apps Script（GAS�
 * 完了日の記録
 * 問い合わせ件数集計
 * 自動返信メール送信
+* Slack通知
 
 ## システム構成
 
