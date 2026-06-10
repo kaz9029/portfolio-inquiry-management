@@ -46,6 +46,27 @@ LINE通知
 ↓
 スマホで確認
 ```
+## スクリーンショット
+
+### 問い合わせフォーム
+
+![問い合わせフォーム](./form.png.png)
+
+### 管理画面
+
+![管理画面](./management-sheet.png.png)
+
+### 自動返信メール
+
+![自動返信メール](./auto-reply-mail.png.png)
+
+### Slack通知
+
+![Slack通知](./slack-notification.png)
+
+### LINE通知
+
+![LINE通知](./line-notification.png)
 
 ## 工夫した点
 
